@@ -34,7 +34,8 @@ Hi there! I'm **Joseph Muriithi** — A motivated space scientist passionate abo
 ---
 
 ## 📅 Contribution Graph:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngoosojk&theme=dark&v=1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ngoosojk&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
