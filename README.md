@@ -23,7 +23,7 @@ Hi there! I'm **Joseph Muriithi** — A motivated space scientist passionate abo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Libraries & Frameworks:**  
-`Matplotlib` • `NumPy` • `Pandas` • `Plotly` • `Scipy` • `TensorFlow`, • `Keras` • `Scikit-Learn`, • `Rasterio` 
+`Matplotlib` • `NumPy` • `Pandas` • `Plotly` • `Scipy` • `TensorFlow` • `Keras` • `Scikit-Learn`, • `Rasterio` 
 
 ---
 
