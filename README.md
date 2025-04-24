@@ -8,9 +8,9 @@ Hi there! I'm **Joseph Muriithi** — A motivated space scientist passionate abo
 
 ---
 
-## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/muriithi-joseph-kagotho-04470597/)
-- [X (Twitter)](https://x.com/ngooso_jk)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriithi-joseph-kagotho-04470597/)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ngooso_jk)
 
 ---
 
@@ -28,13 +28,16 @@ Hi there! I'm **Joseph Muriithi** — A motivated space scientist passionate abo
 ---
 
 ## 📊 GitHub Stats:
+
 ![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngoosojk&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoosojk&layout=compact&theme=radical)
 
 ---
 
 ## 📅 Contribution Graph:
 [![GitHub Streak](https://github-readme-streak-stats-navy-nine.vercel.app?user=ngoosojk&theme=highcontrast)](https://git.io/streak-stats)
+
 ---
 
-> ⚡ *"Code. Learn. Repeat."*
+> ⚡ **Code. Learn. Repeat.**
